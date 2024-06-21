@@ -1,5 +1,8 @@
 # MedBot - AI-Powered Chat API with Memory and Document Retrieval
 
+![asking a question](./screenshots/answer.png)
+![settings](./screenshots/settings.png)
+
 ## Description
 
 MedBot is an experimental microservices-based chat API project. It explores integrating persistent memory, document retrieval capabilities, and Generative AI within a containerized architecture.
