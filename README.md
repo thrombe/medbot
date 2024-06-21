@@ -15,6 +15,8 @@ MedBot is an experimental microservices-based chat API project. It explores inte
 
 - **Microservices Architecture**: Built with modular services for flexibility and potential scalability.
 
+- **Multiple RAG strategies**: RAG strategies like fetching data from a vector database, scraping data from websites, querying pubmed online database are implemented.
+
 ## Technologies used:
 
 - Docker
